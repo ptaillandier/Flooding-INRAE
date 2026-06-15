@@ -1,0 +1,10 @@
+{
+  "type": "json_settings",
+  "name": "Flood Project - Franck",
+  "splashscreen": "./includes/splashscreen/screen.png",
+  "model_file_path": "../Flood Project/models/version 2/Flooding VR.gaml",
+  "experiment_name": "Launch", 
+  "minimal_players": "0", 
+  "maximal_players": "1", 
+  "selected_monitoring": "gama_screen"
+}
