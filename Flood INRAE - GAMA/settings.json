@@ -1,8 +1,8 @@
 {
   "type": "json_settings",
-  "name": "Flood Project - Franck",
+  "name": "Flood INRAE - GAMA",
   "splashscreen": "./includes/splashscreen/screen.png",
-  "model_file_path": "../Flood Project/models/version 2/Flooding VR.gaml",
+  "model_file_path": "../Flood INRAE - GAMA/models/version 2/Flooding VR.gaml",
   "experiment_name": "Launch", 
   "minimal_players": "0", 
   "maximal_players": "1", 
